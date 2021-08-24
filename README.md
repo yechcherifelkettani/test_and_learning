@@ -1,2 +1,2 @@
-# test_and_learning2
+# test_and_learning
 Config files for my GitHub profile.
